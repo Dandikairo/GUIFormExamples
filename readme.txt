@@ -43,3 +43,5 @@ applications requiring basic search functionality. The GUI Builder's alignment
 and sizing features enable you to quickly construct such forms while ensuring 
 that they localize predictably. 
 
+Company: Adroit Solutions Limited
+Developer :by Okello Dan 
